@@ -3,4 +3,4 @@ This is a python code for creating my very first data science package using jupy
 # install package name named 'rabbit'
 It consists of mathematical and stats functions i.e factorial , recursion, bobble sort etc
 
-# unstall package names 'package_uninstall'
+# unstall package named 'package_uninstall'
